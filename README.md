@@ -1,5 +1,5 @@
 # aws-code-build-ecr
-##Building docker image with CodeBuild and pushing it to ECR
+## Building docker image with CodeBuild and pushing it to ECR
 - buildspec.yml - Specification file for the CodeBuild. Consists of pre_build, build and post_build phases
 - Dockerfile - Docker file for building docker image
 
